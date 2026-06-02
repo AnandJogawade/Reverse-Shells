@@ -1,2 +1,2 @@
-# PowerShell-Reverse-Shells
+# Reverse-Shells
 PowerShell Reverse Shells
